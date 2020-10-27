@@ -42,13 +42,9 @@ Data Exploration included:
 ## Machine Learning Models
  The following models were implemented:
  * Linear Regression - Baseline Model
- * Linear Regression - Lasso Regularization
- * Linear Regression - Ridge Regularization
  * XGBoost 
  * Random Forest Regressor 
- * Neural Network with 3 Layers
- * Neural Network with 4 Layers
- * Neural Network with 4 Layers and Batch Normalization
+ * Neural Network
  
 
 ## Evaluation
